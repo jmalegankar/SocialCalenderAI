@@ -28,30 +28,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Sweetgreen",
-                    "brand": "Sweetgreen",
-                    "phone": "+1 415 7379900",
-                    "osm_id": 266671569,
-                    "amenity": "fast_food",
-                    "cuisine": "salad",
-                    "website": "https://order.sweetgreen.com/sunnyvale/menu",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94087,
-                    "opening_hours": "Mo-Su 10:30-21:00",
-                    "brand:wikidata": "Q18636413",
-                    "addr:housenumber": 300,
-                    "opening_hours:url": "https://order.sweetgreen.com/sunnyvale/menu"
-                }
-            },
             "website": "https://order.sweetgreen.com/sunnyvale/menu",
             "opening_hours": "Mo-Su 10:30-21:00",
             "brand": "Sweetgreen",
@@ -106,30 +82,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Five Guys",
-                    "brand": "Five Guys",
-                    "phone": "+1 408 830 9100",
-                    "osm_id": 1067596078,
-                    "amenity": "fast_food",
-                    "cuisine": "burger",
-                    "website": "https://www.fiveguys.com/",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:street": "East El Camino Real",
-                    "addr:postcode": 94085,
-                    "official_name": "Five Guys Burgers and Fries",
-                    "opening_hours": "Mo-Su 11:00-22:00",
-                    "brand:wikidata": "Q1131810",
-                    "outdoor_seating": "yes",
-                    "addr:housenumber": 116
-                }
-            },
             "website": "https://www.fiveguys.com/",
             "opening_hours": "Mo-Su 11:00-22:00",
             "brand": "Five Guys",
@@ -190,34 +142,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "A Slice of New York",
-                    "phone": "+1 650-938-6969",
-                    "osm_id": 2780987618,
-                    "amenity": "fast_food",
-                    "cuisine": "pizza",
-                    "website": "https://www.asliceofny.com/",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:unit": "D",
-                    "addr:state": "CA",
-                    "wheelchair": "limited",
-                    "addr:street": "West El Camino Real",
-                    "addr:country": "US",
-                    "addr:postcode": 94086,
-                    "opening_hours": "Mo closed; Tu-Th 15:00-21:00; Fr-Sa 11:00-22:00; Su 12:30-19:30",
-                    "phone:mnemonic": "+1-650-938-NYNY",
-                    "addr:housenumber": 1253,
-                    "opening_hours:url": "https://asliceofny.com/sunnyvale/",
-                    "opening_hours:kitchen": "Mo closed; Tu-Th 15:00-20:30; Fr-Sa 11:00-21:30; Su 12:30-19:00"
-                }
-            },
             "website": "https://www.asliceofny.com/",
             "opening_hours": "Mo closed; Tu-Th 15:00-21:00; Fr-Sa 11:00-22:00; Su 12:30-19:30",
             "contact": {
@@ -272,32 +196,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Ike's Love & Sandwiches",
-                    "email": "ikessunnyvale@loveandswiches.com",
-                    "phone": "669-600-3962",
-                    "osm_id": 2780987620,
-                    "amenity": "fast_food",
-                    "cuisine": "sandwich",
-                    "website": "http://www.loveandsandwiches.com/menu/pdf/2019%208X11-SNYVL.PDF",
-                    "operator": "Ikes Love & Sandwiches",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "West El Camino Real",
-                    "addr:country": "US",
-                    "addr:postcode": 94087,
-                    "drive_through": "no",
-                    "opening_hours": "Su 10:00-19:00, Mo-Sa 10:00-20:00",
-                    "addr:housenumber": 1253
-                }
-            },
             "website": "http://www.loveandsandwiches.com/menu/pdf/2019%208X11-SNYVL.PDF",
             "opening_hours": "Su 10:00-19:00, Mo-Sa 10:00-20:00",
             "operator": "Ikes Love & Sandwiches",
@@ -349,33 +247,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "KFC",
-                    "brand": "KFC",
-                    "osm_id": 4105633595,
-                    "amenity": "fast_food",
-                    "cuisine": "chicken",
-                    "website": "https://locations.kfc.com/ca/sunnyvale/340-west-maude-avenue",
-                    "alt_name": "Kentucky Fried Chicken",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:unit": "159;340",
-                    "addr:state": "CA",
-                    "addr:street": "West Maude Avenue",
-                    "addr:country": "US",
-                    "addr:postcode": "94085;94086",
-                    "contact:phone": "+1 408-730-0511",
-                    "opening_hours": "Mo-Su 10:30-22:00",
-                    "brand:wikidata": "Q524757",
-                    "addr:housenumber": 340
-                }
-            },
             "website": "https://locations.kfc.com/ca/sunnyvale/340-west-maude-avenue",
             "opening_hours": "Mo-Su 10:30-22:00",
             "brand": "KFC",
@@ -433,32 +304,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "The Halal Guys",
-                    "brand": "The Halal Guys",
-                    "phone": "+1 408 6852181",
-                    "osm_id": 9712703217,
-                    "amenity": "fast_food",
-                    "cuisine": "chicken;falafel;gyros",
-                    "website": "https://thehalalguys.com/locations/328-w-el-camino-real-sunnyvale/",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "diet:halal": "yes",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94087,
-                    "opening_hours": "Mo-Su 11:00-23:00",
-                    "brand:wikidata": "Q10846129",
-                    "addr:housenumber": 328,
-                    "opening_hours:url": "https://thehalalguys.com/locations/328-w-el-camino-real-sunnyvale/"
-                }
-            },
             "website": "https://thehalalguys.com/locations/328-w-el-camino-real-sunnyvale/",
             "opening_hours": "Mo-Su 11:00-23:00",
             "brand": "The Halal Guys",
@@ -517,28 +362,6 @@
                 "details.catering",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "fax": "+1 408 530 9222",
-                    "name": "Dish n Dash",
-                    "phone": "+1-408-530-9200",
-                    "osm_id": 101670503,
-                    "amenity": "fast_food",
-                    "cuisine": "kebab",
-                    "website": "http://www.dishndashrestaurant.com/",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:street": "North Mathilda Avenue",
-                    "addr:country": "US",
-                    "addr:postcode": 94085,
-                    "addr:housenumber": 736
-                }
-            },
             "website": "http://www.dishndashrestaurant.com/",
             "contact": {
                 "phone": "+1-408-530-9200",
@@ -586,32 +409,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Taco Bell",
-                    "brand": "Taco Bell",
-                    "osm_id": 156257492,
-                    "amenity": "fast_food",
-                    "cuisine": "tex-mex",
-                    "website": "https://locations.tacobell.com/ca/sunnyvale/811-kifer-road.html",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "Kifer Road",
-                    "addr:country": "US",
-                    "addr:postcode": 94086,
-                    "drive_through": "yes",
-                    "opening_hours": "Mo-Su 07:00-01:00",
-                    "brand:wikidata": "Q752941",
-                    "addr:housenumber": 811
-                }
-            },
             "website": "https://locations.tacobell.com/ca/sunnyvale/811-kifer-road.html",
             "opening_hours": "Mo-Su 07:00-01:00",
             "brand": "Taco Bell",
@@ -663,28 +460,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Chick-fil-A",
-                    "brand": "Chick-fil-A",
-                    "osm_id": 239238157,
-                    "amenity": "fast_food",
-                    "cuisine": "chicken",
-                    "website": "https://www.chick-fil-a.com/",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:street": "West El Camino Real",
-                    "opening_hours": "Mo-Sa 6:30-22:00",
-                    "brand:wikidata": "Q491516",
-                    "addr:housenumber": 550
-                }
-            },
             "website": "https://www.chick-fil-a.com/",
             "opening_hours": "Mo-Sa 6:30-22:00",
             "brand": "Chick-fil-A",
@@ -738,29 +513,6 @@
                 "details.catering",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Falafel Stop",
-                    "phone": "+1-408-735-7182",
-                    "osm_id": 291848412,
-                    "amenity": "fast_food",
-                    "cuisine": "mediterranean",
-                    "building": "retail",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "Sunnyvale-Saratoga Road",
-                    "addr:postcode": 94087,
-                    "drive_through": "no",
-                    "opening_hours": "11:00-22:00",
-                    "building:levels": 1,
-                    "addr:housenumber": 1325
-                }
-            },
             "opening_hours": "11:00-22:00",
             "contact": {
                 "phone": "+1-408-735-7182"
@@ -809,29 +561,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Taco Bell",
-                    "brand": "Taco Bell",
-                    "osm_id": 1243937102,
-                    "amenity": "fast_food",
-                    "cuisine": "tex-mex",
-                    "website": "https://locations.tacobell.com/ca/sunnyvale/1109-tasman-drive.html",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "Tasman Drive",
-                    "opening_hours": "Mo-Su 07:00-24:00",
-                    "brand:wikidata": "Q752941",
-                    "addr:housenumber": 1109,
-                    "air_conditioning": "yes"
-                }
-            },
             "website": "https://locations.tacobell.com/ca/sunnyvale/1109-tasman-drive.html",
             "opening_hours": "Mo-Su 07:00-24:00",
             "brand": "Taco Bell",
@@ -882,23 +611,6 @@
                 "details.catering",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "\u00a1Una Mas!",
-                    "phone": "+1-408-720-8226",
-                    "osm_id": 1870746552,
-                    "amenity": "fast_food",
-                    "cuisine": "mexican",
-                    "website": "https://www.unamas.com/",
-                    "osm_type": "n",
-                    "addr:street": "Lawrence Expressway",
-                    "addr:housenumber": 548
-                }
-            },
             "website": "https://www.unamas.com/",
             "contact": {
                 "phone": "+1-408-720-8226"
@@ -945,26 +657,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Togo's",
-                    "brand": "Togo's",
-                    "phone": "+1-408-735-1102",
-                    "osm_id": 2607395552,
-                    "amenity": "fast_food",
-                    "cuisine": "sandwich",
-                    "website": "https://www.togos.com/",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:street": "Lawrence Expressway",
-                    "brand:wikidata": "Q3530375",
-                    "addr:housenumber": 540
-                }
-            },
             "website": "https://www.togos.com/",
             "brand": "Togo's",
             "brand_details": {
@@ -1018,28 +710,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "The Habit Burger Grill",
-                    "brand": "The Habit Burger Grill",
-                    "phone": "+1 408 774 9015",
-                    "osm_id": 2625232590,
-                    "amenity": "fast_food",
-                    "cuisine": "burger",
-                    "website": "https://www.habitburger.com/",
-                    "alt_name": "Habit Burger Grill",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "short_name": "Habit Burger",
-                    "addr:street": "West El Camino Real",
-                    "brand:wikidata": "Q18158741",
-                    "addr:housenumber": 146
-                }
-            },
             "website": "https://www.habitburger.com/",
             "brand": "The Habit Burger Grill",
             "brand_details": {
@@ -1096,29 +766,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Rubio's",
-                    "brand": "Rubio's",
-                    "phone": "+1 408 245 0014",
-                    "osm_id": 2686080327,
-                    "amenity": "fast_food",
-                    "cuisine": "mexican",
-                    "website": "https://www.rubios.com/",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:street": "East El Camino Real",
-                    "addr:postcode": 94087,
-                    "official_name": "Rubio's Coastal Grill",
-                    "brand:wikidata": "Q7376154",
-                    "outdoor_seating": "yes",
-                    "addr:housenumber": 108
-                }
-            },
             "website": "https://www.rubios.com/",
             "brand": "Rubio's",
             "brand_details": {
@@ -1176,28 +823,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Lee's Sandwiches",
-                    "brand": "Lee's Sandwiches",
-                    "phone": "+1 408 774 0595",
-                    "branch": "Sunnyvale",
-                    "osm_id": 3066013777,
-                    "amenity": "fast_food",
-                    "cuisine": "vietnamese;sandwich",
-                    "website": "https://www.leesandwiches.com/main.php?act=storedetail&catid=25&idstore=21",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:unit": 108,
-                    "addr:street": "West El Camino Real",
-                    "brand:wikidata": "Q6512823",
-                    "addr:housenumber": 939
-                }
-            },
             "website": "https://www.leesandwiches.com/main.php?act=storedetail&catid=25&idstore=21",
             "brand": "Lee's Sandwiches",
             "brand_details": {
@@ -1252,30 +877,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "zpizza",
-                    "level": 0,
-                    "phone": "1-408-746-5641",
-                    "osm_id": 4398473589,
-                    "amenity": "fast_food",
-                    "cuisine": "pizza",
-                    "name:en": "zpizza",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "North Fair Oaks Avenue",
-                    "addr:postcode": 94089,
-                    "drive_through": "no",
-                    "opening_hours": "11:00-22:00",
-                    "addr:housenumber": 1190
-                }
-            },
             "opening_hours": "11:00-22:00",
             "name_international": {
                 "en": "zpizza"
@@ -1327,24 +928,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Pav Bhaji And More",
-                    "osm_id": 9556741656,
-                    "amenity": "fast_food",
-                    "cuisine": "indian",
-                    "website": "https://pavbhajiandmore.com/",
-                    "osm_type": "n",
-                    "takeaway": "only",
-                    "wheelchair": "yes",
-                    "opening_hours": "Mo,We-Su 12:00-21:00",
-                    "cash_withdrawal:purchase_minimum": "no"
-                }
-            },
             "website": "https://pavbhajiandmore.com/",
             "opening_hours": "Mo,We-Su 12:00-21:00",
             "facilities": {
@@ -1394,24 +977,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Carl's Jr.",
-                    "brand": "Carl's Jr.",
-                    "osm_id": 37892700,
-                    "amenity": "fast_food",
-                    "cuisine": "burger",
-                    "website": "https://locations.carlsjr.com/ca/sunnyvale/1051-e-el-camino-real",
-                    "building": "retail",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "brand:wikidata": "Q1043486"
-                }
-            },
             "website": "https://locations.carlsjr.com/ca/sunnyvale/1051-e-el-camino-real",
             "brand": "Carl's Jr.",
             "brand_details": {
@@ -1467,29 +1032,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "El Pollo Loco",
-                    "brand": "El Pollo Loco",
-                    "phone": "+1 408 732 5002",
-                    "osm_id": 45757964,
-                    "amenity": "fast_food",
-                    "cuisine": "mexican",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94087,
-                    "brand:wikidata": "Q2353849",
-                    "addr:housenumber": 996
-                }
-            },
             "brand": "El Pollo Loco",
             "brand_details": {
                 "wikidata": "Q2353849"

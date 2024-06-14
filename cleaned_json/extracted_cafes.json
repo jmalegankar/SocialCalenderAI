@@ -32,34 +32,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Starbucks",
-                    "brand": "Starbucks",
-                    "phone": "+1-408-736-6859",
-                    "osm_id": 260376018,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "website": "https://www.starbucks.com/store-locator/store/1025244/el-camino-mathilda-sunnyvale-348-el-camino-real-rd-sunnyvale-ca-94087-us",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94087,
-                    "official_name": "Starbucks Coffee",
-                    "opening_hours": "05:30-20:00",
-                    "brand:wikidata": "Q37158",
-                    "internet_access": "wlan",
-                    "outdoor_seating": "yes",
-                    "addr:housenumber": 348
-                }
-            },
             "website": "https://www.starbucks.com/store-locator/store/1025244/el-camino-mathilda-sunnyvale-348-el-camino-real-rd-sunnyvale-ca-94087-us",
             "opening_hours": "05:30-20:00",
             "brand": "Starbucks",
@@ -119,28 +91,6 @@
                 "details.contact",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Von\u2019s Express Halal",
-                    "phone": "408.542.9766",
-                    "osm_id": 3977606746,
-                    "amenity": "cafe",
-                    "cuisine": "indian",
-                    "smoking": "outside",
-                    "website": "https://vonshalal.com/",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "E Duane Ave",
-                    "opening_hours": "11:00-21:00",
-                    "internet_access": "yes",
-                    "addr:housenumber": 933
-                }
-            },
             "website": "https://vonshalal.com/",
             "opening_hours": "11:00-21:00",
             "contact": {
@@ -193,32 +143,6 @@
                 "details.contact",
                 "details.payment"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Paris Baguette",
-                    "shop": "bakery",
-                    "brand": "Paris Baguette",
-                    "phone": "+1 (408) 685-2770",
-                    "osm_id": 9623542441,
-                    "amenity": "cafe",
-                    "website": "https://www.parisbaguette.com/",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "East El Camino Real",
-                    "payment:cash": "yes",
-                    "addr:postcode": 94087,
-                    "opening_hours": "Mo-Su 08:00-20:00",
-                    "brand:wikidata": "Q62605260",
-                    "addr:housenumber": 598,
-                    "payment:debit_cards": "yes",
-                    "payment:credit_cards": "yes"
-                }
-            },
             "website": "https://www.parisbaguette.com/",
             "opening_hours": "Mo-Su 08:00-20:00",
             "brand": "Paris Baguette",
@@ -277,33 +201,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Starbucks",
-                    "brand": "Starbucks",
-                    "osm_id": 1327997361,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "South Mary Avenue",
-                    "addr:postcode": 94087,
-                    "official_name": "Starbucks Coffee",
-                    "opening_hours": "Mo-Sa 05:00-20:00, Su 06:00-19:30",
-                    "brand:wikidata": "Q37158",
-                    "contact:website": "https://www.starbucks.com/store-locator/store/14759/fremont-mary-sunnyvale-1291-south-mary-sunnyvale-ca-940872203-us",
-                    "internet_access": "wlan",
-                    "outdoor_seating": "yes",
-                    "addr:housenumber": 1291,
-                    "internet_access:fee": "no"
-                }
-            },
             "website": "https://www.starbucks.com/store-locator/store/14759/fremont-mary-sunnyvale-1291-south-mary-sunnyvale-ca-940872203-us",
             "opening_hours": "Mo-Sa 05:00-20:00, Su 06:00-19:30",
             "brand": "Starbucks",
@@ -361,29 +258,6 @@
                 "details.catering",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Bagel Place Cafe",
-                    "shop": "bakery",
-                    "phone": "+1-408-720-8226",
-                    "bakery": "bagels",
-                    "osm_id": 2607395530,
-                    "amenity": "cafe",
-                    "cuisine": "bagel",
-                    "website": "http://www.bagelplacecafe.com/",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:unit": 1,
-                    "addr:state": "CA",
-                    "addr:street": "Lawrence Expressway",
-                    "addr:postcode": 94085,
-                    "addr:housenumber": 546
-                }
-            },
             "website": "http://www.bagelplacecafe.com/",
             "contact": {
                 "phone": "+1-408-720-8226"
@@ -435,27 +309,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Starbucks",
-                    "brand": "Starbucks",
-                    "osm_id": 49187239,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "building": "commercial",
-                    "operator": "Starbucks",
-                    "osm_type": "w",
-                    "takeaway": "yes",
-                    "drive_through": "yes",
-                    "official_name": "Starbucks Coffee",
-                    "brand:wikidata": "Q37158",
-                    "contact:website": "https://www.starbucks.com/store-locator/store/18575/el-camino-real-poplar-1003-e-el-camino-real-sunnyvale-ca-940873748-us"
-                }
-            },
             "website": "https://www.starbucks.com/store-locator/store/18575/el-camino-real-poplar-1003-e-el-camino-real-sunnyvale-ca-940873748-us",
             "brand": "Starbucks",
             "brand_details": {
@@ -512,23 +365,6 @@
                 "details",
                 "details.catering"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Kal's Bar-B-Q",
-                    "osm_id": 395892801,
-                    "amenity": "cafe",
-                    "cuisine": "burger;breakfast;barbecue",
-                    "website": "http://kalsbbq.com",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "addr:street": "North Mathilda Avenue",
-                    "addr:housenumber": 425
-                }
-            },
             "website": "http://kalsbbq.com",
             "catering": {
                 "cuisine": "burger;breakfast;barbecue"
@@ -572,30 +408,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Starbucks",
-                    "brand": "Starbucks",
-                    "osm_id": 487082165,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "operator": "Starbucks",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "North Mathilda Avenue",
-                    "addr:postcode": 94085,
-                    "official_name": "Starbucks Coffee",
-                    "brand:wikidata": "Q37158",
-                    "contact:website": "https://www.starbucks.com/store-locator/store/16802/mathilda-maude-sunnyvale-460-n-mathilda-avenue-sunnyvale-ca-940854221-us",
-                    "addr:housenumber": 460
-                }
-            },
             "website": "https://www.starbucks.com/store-locator/store/16802/mathilda-maude-sunnyvale-460-n-mathilda-avenue-sunnyvale-ca-940854221-us",
             "brand": "Starbucks",
             "brand_details": {
@@ -649,27 +461,6 @@
                 "details",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Coffee-n-More",
-                    "osm_id": 566055916,
-                    "amenity": "cafe",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:unit": 1,
-                    "addr:state": "CA",
-                    "addr:street": "South Murphy Avenue",
-                    "addr:postcode": 94086,
-                    "opening_hours": "Mo-Sa 07:00-18:00",
-                    "internet_access": "wlan",
-                    "addr:housenumber": 100,
-                    "internet_access:fee": "no"
-                }
-            },
             "opening_hours": "Mo-Sa 07:00-18:00",
             "facilities": {
                 "internet_access": true
@@ -710,25 +501,6 @@
                 "details",
                 "details.catering"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Hanabusa Caf\u00e9",
-                    "osm_id": 1313317149,
-                    "amenity": "cafe",
-                    "cuisine": "pankcake",
-                    "website": "https://hanabusa.cafe",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "South Mary Avenue",
-                    "addr:postcode": 94086,
-                    "addr:housenumber": 201
-                }
-            },
             "website": "https://hanabusa.cafe",
             "catering": {
                 "cuisine": "pankcake"
@@ -772,26 +544,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Peet's Coffee",
-                    "brand": "Peet's Coffee",
-                    "osm_id": 2203769868,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94040,
-                    "opening_hours": "Mo-Fr 06:00-17:00; Sa,Su 06:00-18:00",
-                    "brand:wikidata": "Q1094101",
-                    "addr:housenumber": 144
-                }
-            },
             "opening_hours": "Mo-Fr 06:00-17:00; Sa,Su 06:00-18:00",
             "brand": "Peet's Coffee",
             "brand_details": {
@@ -842,24 +594,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Pastel Tea Lounge",
-                    "osm_id": 2604149612,
-                    "amenity": "cafe",
-                    "cuisine": "bubble_tea",
-                    "osm_type": "n",
-                    "check_date": "2023-03-15",
-                    "addr:street": "Lawrence Expressway",
-                    "opening_hours": "Mo-Su 11:00-21:00",
-                    "addr:housenumber": 1161,
-                    "air_conditioning": "yes"
-                }
-            },
             "opening_hours": "Mo-Su 11:00-21:00",
             "facilities": {
                 "air_conditioning": true
@@ -905,26 +639,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Gong Cha",
-                    "brand": "Gong Cha",
-                    "osm_id": 8735329212,
-                    "amenity": "cafe",
-                    "cuisine": "bubble_tea",
-                    "name:zh": "\u8ca2\u8336",
-                    "brand:zh": "\u8ca2\u8336",
-                    "int_name": "Gong Cha",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "opening_hours": "Su 12:00-20:00; Mo-Th 11:30-20:00; Fr,Sa 11:30-21:00",
-                    "brand:wikidata": "Q5581670"
-                }
-            },
             "opening_hours": "Su 12:00-20:00; Mo-Th 11:30-20:00; Fr,Sa 11:30-21:00",
             "brand": "Gong Cha",
             "brand_details": {
@@ -977,27 +691,6 @@
                 "details",
                 "details.catering"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Boba Drive",
-                    "level": 0,
-                    "osm_id": 9472641687,
-                    "amenity": "cafe",
-                    "cuisine": "bubble_tea",
-                    "website": "https://www.bobadrive.shop/",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "West Tasman Drive",
-                    "addr:postcode": 94089,
-                    "official_name": "Boba Drive LLC",
-                    "addr:housenumber": 677
-                }
-            },
             "website": "https://www.bobadrive.shop/",
             "name_other": {
                 "official_name": "Boba Drive LLC"
@@ -1041,23 +734,6 @@
                 "catering.cafe"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Island Cafe",
-                    "osm_id": 231754151,
-                    "amenity": "cafe",
-                    "building": "retail",
-                    "osm_type": "w",
-                    "roof:shape": "flat",
-                    "addr:street": "East Washington Avenue",
-                    "roof:colour": "gray",
-                    "addr:housenumber": 295
-                }
-            },
             "building": {
                 "type": "retail",
                 "roof": {
@@ -1098,20 +774,6 @@
                 "catering.cafe"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "The Bean Scene Cafe",
-                    "osm_id": 439200967,
-                    "amenity": "cafe",
-                    "osm_type": "n",
-                    "addr:street": "South Murphy Avenue",
-                    "addr:housenumber": 186
-                }
-            },
             "place_id": "51e72ca2dcec815ec0595e6a91cf2bb04240f00103f901c7ac2d1a00000000920313546865204265616e205363656e652043616665"
         },
         "geometry": {
@@ -1150,26 +812,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Wolfe 4",
-                    "osm_id": 458575918,
-                    "amenity": "cafe",
-                    "cuisine": "american",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "E Arques Ave",
-                    "addr:postcode": 94085,
-                    "outdoor_seating": "yes",
-                    "addr:housenumber": 890
-                }
-            },
             "facilities": {
                 "outdoor_seating": true
             },
@@ -1209,20 +851,6 @@
                 "catering.cafe"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Bagel Street Cafe",
-                    "osm_id": 487082152,
-                    "amenity": "cafe",
-                    "osm_type": "n",
-                    "addr:street": "West Maude Avenue",
-                    "addr:housenumber": 346
-                }
-            },
             "place_id": "51d735b5c7e6815ec0597bdf22b7cbb14240f00103f901a848081d00000000920311426167656c205374726565742043616665"
         },
         "geometry": {
@@ -1257,19 +885,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Le Boulanger Sunnyvale/Mathilda",
-                    "osm_id": 615947556,
-                    "amenity": "cafe",
-                    "operator": "Le Boulanger",
-                    "osm_type": "n"
-                }
-            },
             "operator": "Le Boulanger",
             "place_id": "5194eaf1310e825ec0595d21b2744fb14240f00103f901249db6240000000092031f4c6520426f756c616e6765722053756e6e7976616c652f4d617468696c6461"
         },
@@ -1310,24 +925,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Starbucks",
-                    "brand": "Starbucks",
-                    "branch": "Target Cafe",
-                    "osm_id": 647650154,
-                    "amenity": "cafe",
-                    "cuisine": "coffee_shop",
-                    "osm_type": "n",
-                    "takeaway": "yes",
-                    "official_name": "Starbucks Coffee",
-                    "brand:wikidata": "Q37158"
-                }
-            },
             "brand": "Starbucks",
             "brand_details": {
                 "wikidata": "Q37158"

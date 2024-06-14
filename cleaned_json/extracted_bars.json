@@ -27,25 +27,6 @@
                 "details",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "fax": "1.408.260.8312",
-                    "name": "Rabbit's Foot Meadery",
-                    "phone": "1.408.747.0770",
-                    "osm_id": 476136016,
-                    "amenity": "bar",
-                    "website": "https://rabbitsfootmeadery.com/",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:street": "Birchwood Drive",
-                    "addr:housenumber": 1246
-                }
-            },
             "website": "https://rabbitsfootmeadery.com/",
             "contact": {
                 "phone": "1.408.747.0770",
@@ -88,23 +69,6 @@
                 "details.catering",
                 "details.contact"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Pizza Depot",
-                    "phone": 4082457760,
-                    "osm_id": 2156506457,
-                    "amenity": "bar",
-                    "cuisine": "pizza",
-                    "website": "http://www.pizzadepotsunnyvale.com/",
-                    "osm_type": "n",
-                    "addr:street": "East Duane Avenue",
-                    "addr:housenumber": 919
-                }
-            },
             "website": "http://www.pizzadepotsunnyvale.com/",
             "contact": {
                 "phone": 4082457760
@@ -151,29 +115,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Fuego Sports Bar and Club",
-                    "osm_id": 2703532209,
-                    "amenity": "bar",
-                    "cuisine": "american",
-                    "smoking": "no",
-                    "website": "https://www.fuegosportsbarandclub.com",
-                    "osm_type": "n",
-                    "takeaway": "no",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "wheelchair": "yes",
-                    "addr:street": "South Murphy Avenue",
-                    "addr:postcode": 94086,
-                    "outdoor_seating": "no",
-                    "addr:housenumber": 140
-                }
-            },
             "website": "https://www.fuegosportsbarandclub.com",
             "facilities": {
                 "wheelchair": true,
@@ -219,21 +160,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "The Oasis",
-                    "osm_id": 207269873,
-                    "amenity": "bar",
-                    "building": "yes",
-                    "osm_type": "w",
-                    "addr:street": "East El Camino Real",
-                    "addr:housenumber": 952
-                }
-            },
             "place_id": "511391065cbc805ec05986d9601e0dad4240f00102f901f1af5a0c00000000920309546865204f61736973"
         },
         "geometry": {
@@ -274,22 +200,6 @@
             "details": [
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Murphy's Law Irish Pub & Sports Bar",
-                    "osm_id": 1225108527,
-                    "amenity": "bar",
-                    "building": "retail",
-                    "osm_type": "w",
-                    "wheelchair": "yes",
-                    "addr:street": "South Murphy Avenue",
-                    "addr:housenumber": 134
-                }
-            },
             "facilities": {
                 "wheelchair": true
             },
@@ -329,20 +239,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "La Ronda",
-                    "osm_id": 1866581823,
-                    "amenity": "bar",
-                    "osm_type": "n",
-                    "addr:street": "East Duane Avenue",
-                    "addr:housenumber": 927
-                }
-            },
             "place_id": "5104e621533e805ec059525405cfceb14240f00103f9013fc7416f000000009203084c6120526f6e6461"
         },
         "geometry": {
@@ -375,18 +271,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Stadium",
-                    "osm_id": 2203714474,
-                    "amenity": "bar",
-                    "osm_type": "n"
-                }
-            },
             "place_id": "511cc418a254815ec059a617604bd9af4240f00103f901aa035a83000000009203075374616469756d"
         },
         "geometry": {
@@ -424,25 +308,6 @@
                 "details.catering",
                 "details.facilities"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Blue Max Cocktails",
-                    "osm_id": 2225535982,
-                    "amenity": "bar",
-                    "osm_type": "n",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "West El Camino Real",
-                    "addr:postcode": 94087,
-                    "outdoor_seating": "no",
-                    "addr:housenumber": 828,
-                    "opening_hours:signed": "no"
-                }
-            },
             "facilities": {
                 "outdoor_seating": false
             },
@@ -479,21 +344,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Evolution",
-                    "osm_id": 2604149613,
-                    "amenity": "bar",
-                    "osm_type": "n",
-                    "check_date": "2023-03-15",
-                    "addr:street": "Lawrence Expressway",
-                    "addr:housenumber": 1131
-                }
-            },
             "place_id": "5149754bbccd7f5ec059f5c9b869d8b24240f00103f9016d2b389b0000000092030945766f6c7574696f6e"
         },
         "geometry": {
@@ -527,20 +377,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "The Patio",
-                    "osm_id": 2663431873,
-                    "amenity": "bar",
-                    "osm_type": "n",
-                    "addr:street": "East El Camino Real",
-                    "addr:housenumber": 948
-                }
-            },
             "place_id": "510d12a27cc1805ec05987a8b2c00dad4240f00103f901c1bec09e0000000092030954686520506174696f"
         },
         "geometry": {
@@ -573,18 +409,6 @@
                 "catering.bar"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Sporty\u2019s Bikini Bar",
-                    "osm_id": 5327261695,
-                    "amenity": "bar",
-                    "osm_type": "n"
-                }
-            },
             "place_id": "51c4c661d545805ec059bf93c87b30ad4240f00103f901ff8f873d0100000092031553706f727479e28099732042696b696e6920426172"
         },
         "geometry": {

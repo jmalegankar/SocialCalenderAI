@@ -21,20 +21,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 33,
-                    "name": "Washington Park",
-                    "osm_id": 30829777,
-                    "leisure": "park",
-                    "website": "https://sunnyvale.ca.gov/Departments/CommunityServices/Parks/WashingtonPark.aspx",
-                    "osm_type": "w"
-                }
-            },
             "website": "https://sunnyvale.ca.gov/Departments/CommunityServices/Parks/WashingtonPark.aspx",
             "ele": 33,
             "place_id": "51ae59258d95825ec0595ebfbdf245b04240f00102f901d16cd6010000000092030f57617368696e67746f6e205061726b"
@@ -68,18 +54,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Swegles Park",
-                    "osm_id": -12002009,
-                    "leisure": "park",
-                    "osm_type": "r"
-                }
-            },
             "place_id": "5157ed51723c805ec0591738fc9a76b14240f00101f901d922b7000000000092030c537765676c6573205061726b"
         },
         "geometry": {
@@ -111,23 +85,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "De Anza Park",
-                    "osm_id": 15742827,
-                    "leisure": "park",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "Lime Drive",
-                    "addr:postcode": 94087,
-                    "addr:housenumber": 1150
-                }
-            },
             "place_id": "51a1df65fb74835ec0599cbb61bdd1ad4240f00102f9016b37f0000000000092030c446520416e7a61205061726b"
         },
         "geometry": {
@@ -160,19 +117,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 29,
-                    "name": "Ponderosa Park",
-                    "osm_id": 18402078,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 29,
             "place_id": "51de177fa35d805ec0592014cd8a4dae4240f00102f9011ecb18010000000092030e506f6e6465726f7361205061726b"
         },
@@ -204,18 +148,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Las Palmas Park",
-                    "osm_id": 19448302,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51154b66a370825ec059268e9349b2ae4240f00102f901eec128010000000092030f4c61732050616c6d6173205061726b"
         },
         "geometry": {
@@ -248,21 +180,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 55,
-                    "name": "Ortega Park",
-                    "osm_id": 22462667,
-                    "leisure": "park",
-                    "alt_name": "La Ortega Park",
-                    "osm_type": "w",
-                    "official_name": "Ortega Madre Park"
-                }
-            },
             "name_other": {
                 "alt_name": "La Ortega Park",
                 "official_name": "Ortega Madre Park"
@@ -300,19 +217,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 64,
-                    "name": "Serra Park",
-                    "osm_id": 24429367,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 64,
             "place_id": "51f06d6955ba825ec059f25b5a4af1ab4240f00102f90137c374010000000092030a5365727261205061726b"
         },
@@ -344,18 +248,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Encinal Park",
-                    "osm_id": 25795451,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51034c007abe825ec05943bd22241cb24240f00102f9017b9b89010000000092030c456e63696e616c205061726b"
         },
         "geometry": {
@@ -389,26 +281,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 1,
-                    "name": "Sunnyvale Baylands Park",
-                    "osm_id": 28640922,
-                    "leisure": "park",
-                    "operator": "City of Sunnyvale",
-                    "osm_type": "w",
-                    "addr:city": "Sunnyvale",
-                    "addr:state": "CA",
-                    "addr:street": "East Caribbean Drive",
-                    "addr:postcode": 94089,
-                    "operator:type": "government",
-                    "addr:housenumber": 999
-                }
-            },
             "operator": "City of Sunnyvale",
             "operator_details": {
                 "type": "government"
@@ -444,18 +316,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Nimitz School Park",
-                    "osm_id": 28664604,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51aa0656953e825ec059e44756bb81ac4240f00102f9011c63b501000000009203124e696d69747a205363686f6f6c205061726b"
         },
         "geometry": {
@@ -486,18 +346,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Lakewood Park",
-                    "osm_id": 36574615,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51f00b22d90c805ec059b48fd79ed9b24240f00102f90197152e020000000092030d4c616b65776f6f64205061726b"
         },
         "geometry": {
@@ -530,19 +378,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 9,
-                    "name": "Orchard Park",
-                    "osm_id": 36836142,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 9,
             "place_id": "510a18195895815ec059240af6d530b34240f00102f9012e1332020000000092030c4f726368617264205061726b"
         },
@@ -576,20 +411,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 22,
-                    "name": "Murphy Park",
-                    "osm_id": 37877577,
-                    "leisure": "park",
-                    "alt_name": "Martin Murphy Junior Park",
-                    "osm_type": "w"
-                }
-            },
             "name_other": {
                 "alt_name": "Martin Murphy Junior Park"
             },
@@ -625,18 +446,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Raynor Park",
-                    "osm_id": 38199298,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51726afe176f805ec059e8542fa102ac4240f00102f90102e046020000000092030b5261796e6f72205061726b"
         },
         "geometry": {
@@ -669,19 +478,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 46,
-                    "name": "Panama Park",
-                    "osm_id": 39201406,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 46,
             "place_id": "51d836954731815ec05990ea3a3682ac4240f00102f9017e2a56020000000092030b50616e616d61205061726b"
         },
@@ -713,18 +509,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "San Antonio Park",
-                    "osm_id": 39203258,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "51ccfa4cada3835ec059b6a6bd59b9ac4240f00102f901ba3156020000000092031053616e20416e746f6e696f205061726b"
         },
         "geometry": {
@@ -757,19 +541,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 10,
-                    "name": "Columbia Park",
-                    "osm_id": 39221154,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 10,
             "place_id": "51cc6044e33d815ec05987cca0069db24240f00102f901a27756020000000092030d436f6c756d626961205061726b"
         },
@@ -803,20 +574,6 @@
             "details": [
                 "details"
             ],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "ele": 28,
-                    "area": "yes",
-                    "name": "Cannery Park",
-                    "osm_id": 40444864,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "ele": 28,
             "place_id": "515c7c81aea0825ec0597ce0469b19b14240f00102f901c02369020000000092030c43616e6e657279205061726b"
         },
@@ -848,25 +605,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Fair Oaks Park",
-                    "ALAND": 59608,
-                    "MTFCC": "K2180",
-                    "AREAID": 110173686938,
-                    "AWATER": 0,
-                    "osm_id": 43449559,
-                    "STATEFP": "06",
-                    "leisure": "park",
-                    "COUNTYFP": "085",
-                    "osm_type": "w",
-                    "Tiger:MTFCC": "K2180"
-                }
-            },
             "place_id": "51826482eaef805ec05946a9eb6b5db14240f00102f901d7fc96020000000092030e46616972204f616b73205061726b"
         },
         "geometry": {
@@ -897,18 +635,6 @@
                 "leisure.park"
             ],
             "details": [],
-            "datasource": {
-                "sourcename": "openstreetmap",
-                "attribution": "\u00a9 OpenStreetMap contributors",
-                "license": "Open Database License",
-                "url": "https://www.openstreetmap.org/copyright",
-                "raw": {
-                    "name": "Seven Seas Neighborhood Park",
-                    "osm_id": 302358156,
-                    "leisure": "park",
-                    "osm_type": "w"
-                }
-            },
             "place_id": "5136605df907815ec0596aae907909b34240f00102f9018c9e05120000000092031c536576656e2053656173204e65696768626f72686f6f64205061726b"
         },
         "geometry": {
