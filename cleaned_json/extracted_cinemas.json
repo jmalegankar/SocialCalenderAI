@@ -1,0 +1,65 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "AMC DINE-IN Sunnyvale 12",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94086",
+            "street": "East McKinley Avenue",
+            "housenumber": "150",
+            "lon": -122.030823,
+            "lat": 37.3738568,
+            "state_code": "CA",
+            "formatted": "AMC DINE-IN Sunnyvale 12, 150 East McKinley Avenue, Sunnyvale, CA 94086, United States of America",
+            "address_line1": "AMC DINE-IN Sunnyvale 12",
+            "address_line2": "150 East McKinley Avenue, Sunnyvale, CA 94086, United States of America",
+            "categories": [
+                "entertainment",
+                "entertainment.cinema"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "AMC DINE-IN Sunnyvale 12",
+                    "brand": "AMC",
+                    "osm_id": 8362846689,
+                    "amenity": "cinema",
+                    "dine_in": "yes",
+                    "alt_name": "AMC Sunnyvale Dine-In 12 Theatres",
+                    "osm_type": "n",
+                    "addr:city": "Sunnyvale",
+                    "addr:state": "CA",
+                    "addr:street": "East McKinley Avenue",
+                    "addr:postcode": 94086,
+                    "brand:wikidata": "Q294721",
+                    "addr:housenumber": 150
+                }
+            },
+            "brand": "AMC",
+            "brand_details": {
+                "wikidata": "Q294721"
+            },
+            "name_other": {
+                "alt_name": "AMC Sunnyvale Dine-In 12 Theatres"
+            },
+            "place_id": "51bb3d0801f9815ec0599578248adaaf4240f00103f901e1e976f201000000920318414d432044494e452d494e2053756e6e7976616c65203132"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.03082299999998,
+                37.37385679989635
+            ]
+        }
+    }
+]

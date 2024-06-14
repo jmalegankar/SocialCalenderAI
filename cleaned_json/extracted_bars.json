@@ -1,0 +1,598 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Rabbit's Foot Meadery",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94089",
+            "street": "Birchwood Drive",
+            "housenumber": "1246",
+            "lon": -121.99208267613662,
+            "lat": 37.404462949999996,
+            "state_code": "CA",
+            "formatted": "Rabbit's Foot Meadery, 1246 Birchwood Drive, Sunnyvale, CA 94089, United States of America",
+            "address_line1": "Rabbit's Foot Meadery",
+            "address_line2": "1246 Birchwood Drive, Sunnyvale, CA 94089, United States of America",
+            "categories": [
+                "building",
+                "building.catering",
+                "catering",
+                "catering.bar"
+            ],
+            "details": [
+                "details",
+                "details.contact"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "fax": "1.408.260.8312",
+                    "name": "Rabbit's Foot Meadery",
+                    "phone": "1.408.747.0770",
+                    "osm_id": 476136016,
+                    "amenity": "bar",
+                    "website": "https://rabbitsfootmeadery.com/",
+                    "building": "yes",
+                    "osm_type": "w",
+                    "addr:city": "Sunnyvale",
+                    "addr:street": "Birchwood Drive",
+                    "addr:housenumber": 1246
+                }
+            },
+            "website": "https://rabbitsfootmeadery.com/",
+            "contact": {
+                "phone": "1.408.747.0770",
+                "fax": "1.408.260.8312"
+            },
+            "place_id": "51d63b56487e7f5ec05908222371c5b34240f00102f9015042611c00000000920315526162626974277320466f6f74204d656164657279"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -121.99208267613662,
+                37.40446294990039
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Pizza Depot",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94085",
+            "street": "East Duane Avenue",
+            "housenumber": "919",
+            "lon": -122.0040131,
+            "lat": 37.3891201,
+            "state_code": "CA",
+            "formatted": "Pizza Depot, 919 East Duane Avenue, Sunnyvale, CA 94085, United States of America",
+            "address_line1": "Pizza Depot",
+            "address_line2": "919 East Duane Avenue, Sunnyvale, CA 94085, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [
+                "details",
+                "details.catering",
+                "details.contact"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Pizza Depot",
+                    "phone": 4082457760,
+                    "osm_id": 2156506457,
+                    "amenity": "bar",
+                    "cuisine": "pizza",
+                    "website": "http://www.pizzadepotsunnyvale.com/",
+                    "osm_type": "n",
+                    "addr:street": "East Duane Avenue",
+                    "addr:housenumber": 919
+                }
+            },
+            "website": "http://www.pizzadepotsunnyvale.com/",
+            "contact": {
+                "phone": 4082457760
+            },
+            "catering": {
+                "cuisine": "pizza"
+            },
+            "place_id": "515a5029c041805ec059cda3fbafceb14240f00103f90159ad89800000000092030b50697a7a61204465706f74"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.00401309999998,
+                37.389120099898356
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Fuego Sports Bar and Club",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94086",
+            "street": "South Murphy Avenue",
+            "housenumber": "140",
+            "lon": -122.02983,
+            "lat": 37.376947,
+            "state_code": "CA",
+            "formatted": "Fuego Sports Bar and Club, 140 South Murphy Avenue, Sunnyvale, CA 94086, United States of America",
+            "address_line1": "Fuego Sports Bar and Club",
+            "address_line2": "140 South Murphy Avenue, Sunnyvale, CA 94086, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar",
+                "wheelchair",
+                "wheelchair.yes"
+            ],
+            "details": [
+                "details",
+                "details.catering",
+                "details.facilities"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Fuego Sports Bar and Club",
+                    "osm_id": 2703532209,
+                    "amenity": "bar",
+                    "cuisine": "american",
+                    "smoking": "no",
+                    "website": "https://www.fuegosportsbarandclub.com",
+                    "osm_type": "n",
+                    "takeaway": "no",
+                    "addr:city": "Sunnyvale",
+                    "addr:state": "CA",
+                    "wheelchair": "yes",
+                    "addr:street": "South Murphy Avenue",
+                    "addr:postcode": 94086,
+                    "outdoor_seating": "no",
+                    "addr:housenumber": 140
+                }
+            },
+            "website": "https://www.fuegosportsbarandclub.com",
+            "facilities": {
+                "wheelchair": true,
+                "smoking": false,
+                "outdoor_seating": false,
+                "takeaway": false
+            },
+            "catering": {
+                "cuisine": "american"
+            },
+            "place_id": "51229c16bce8815ec059e1709ecc3fb04240f00103f901b1a024a100000000920319467565676f2053706f7274732042617220616e6420436c7562"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.02982999999998,
+                37.37694699989675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "The Oasis",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "95086",
+            "street": "East El Camino Real",
+            "housenumber": "952",
+            "lon": -122.01149655,
+            "lat": 37.35196285,
+            "state_code": "CA",
+            "formatted": "The Oasis, 952 East El Camino Real, Sunnyvale, CA 95086, United States of America",
+            "address_line1": "The Oasis",
+            "address_line2": "952 East El Camino Real, Sunnyvale, CA 95086, United States of America",
+            "categories": [
+                "building",
+                "building.catering",
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "The Oasis",
+                    "osm_id": 207269873,
+                    "amenity": "bar",
+                    "building": "yes",
+                    "osm_type": "w",
+                    "addr:street": "East El Camino Real",
+                    "addr:housenumber": 952
+                }
+            },
+            "place_id": "511391065cbc805ec05986d9601e0dad4240f00102f901f1af5a0c00000000920309546865204f61736973"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01149654999999,
+                37.35196284989347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Murphy's Law Irish Pub & Sports Bar",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94086",
+            "street": "South Murphy Avenue",
+            "housenumber": "134",
+            "lon": -122.03031371284365,
+            "lat": 37.37709605,
+            "state_code": "CA",
+            "formatted": "Murphy's Law Irish Pub & Sports Bar, 134 South Murphy Avenue, Sunnyvale, CA 94086, United States of America",
+            "address_line1": "Murphy's Law Irish Pub & Sports Bar",
+            "address_line2": "134 South Murphy Avenue, Sunnyvale, CA 94086, United States of America",
+            "categories": [
+                "building",
+                "building.catering",
+                "building.commercial",
+                "catering",
+                "catering.bar",
+                "wheelchair",
+                "wheelchair.yes"
+            ],
+            "details": [
+                "details.facilities"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Murphy's Law Irish Pub & Sports Bar",
+                    "osm_id": 1225108527,
+                    "amenity": "bar",
+                    "building": "retail",
+                    "osm_type": "w",
+                    "wheelchair": "yes",
+                    "addr:street": "South Murphy Avenue",
+                    "addr:housenumber": 134
+                }
+            },
+            "facilities": {
+                "wheelchair": true
+            },
+            "building": {
+                "type": "retail"
+            },
+            "place_id": "512952eda8f0815ec059f3e0f0ae44b04240f00102f9012fac0549000000009203234d75727068792773204c61772049726973682050756220262053706f72747320426172"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.03031371284364,
+                37.37709604989677
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "La Ronda",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94085",
+            "street": "East Duane Avenue",
+            "housenumber": "927",
+            "lon": -122.003804,
+            "lat": 37.3891238,
+            "state_code": "CA",
+            "formatted": "La Ronda, 927 East Duane Avenue, Sunnyvale, CA 94085, United States of America",
+            "address_line1": "La Ronda",
+            "address_line2": "927 East Duane Avenue, Sunnyvale, CA 94085, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "La Ronda",
+                    "osm_id": 1866581823,
+                    "amenity": "bar",
+                    "osm_type": "n",
+                    "addr:street": "East Duane Avenue",
+                    "addr:housenumber": 927
+                }
+            },
+            "place_id": "5104e621533e805ec059525405cfceb14240f00103f9013fc7416f000000009203084c6120526f6e6461"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.003804,
+                37.38912379989837
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Stadium",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94086",
+            "street": "South Fair Oaks Avenue",
+            "lon": -122.0207906,
+            "lat": 37.3738188,
+            "state_code": "CA",
+            "formatted": "Stadium, South Fair Oaks Avenue, Sunnyvale, CA 94086, United States of America",
+            "address_line1": "Stadium",
+            "address_line2": "South Fair Oaks Avenue, Sunnyvale, CA 94086, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Stadium",
+                    "osm_id": 2203714474,
+                    "amenity": "bar",
+                    "osm_type": "n"
+                }
+            },
+            "place_id": "511cc418a254815ec059a617604bd9af4240f00103f901aa035a83000000009203075374616469756d"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.0207906,
+                37.37381879989634
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Blue Max Cocktails",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94087",
+            "suburb": "Civic Square Shopping Center",
+            "street": "West El Camino Real",
+            "housenumber": "828",
+            "lon": -122.0425718,
+            "lat": 37.3695072,
+            "state_code": "CA",
+            "formatted": "Blue Max Cocktails, 828 West El Camino Real, Sunnyvale, CA 94087, United States of America",
+            "address_line1": "Blue Max Cocktails",
+            "address_line2": "828 West El Camino Real, Sunnyvale, CA 94087, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [
+                "details.catering",
+                "details.facilities"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Blue Max Cocktails",
+                    "osm_id": 2225535982,
+                    "amenity": "bar",
+                    "osm_type": "n",
+                    "addr:city": "Sunnyvale",
+                    "addr:state": "CA",
+                    "addr:street": "West El Camino Real",
+                    "addr:postcode": 94087,
+                    "outdoor_seating": "no",
+                    "addr:housenumber": 828,
+                    "opening_hours:signed": "no"
+                }
+            },
+            "facilities": {
+                "outdoor_seating": false
+            },
+            "place_id": "51d82e127fb9825ec0592e980d034caf4240f00103f901eefba68400000000920312426c7565204d617820436f636b7461696c73"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.04257180000002,
+                37.36950719989578
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Evolution",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94089",
+            "street": "Lawrence Expressway",
+            "housenumber": "1131",
+            "lon": -121.9969321,
+            "lat": 37.3972294,
+            "state_code": "CA",
+            "formatted": "Evolution, 1131 Lawrence Expressway, Sunnyvale, CA 94089, United States of America",
+            "address_line1": "Evolution",
+            "address_line2": "1131 Lawrence Expressway, Sunnyvale, CA 94089, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Evolution",
+                    "osm_id": 2604149613,
+                    "amenity": "bar",
+                    "osm_type": "n",
+                    "check_date": "2023-03-15",
+                    "addr:street": "Lawrence Expressway",
+                    "addr:housenumber": 1131
+                }
+            },
+            "place_id": "5149754bbccd7f5ec059f5c9b869d8b24240f00103f9016d2b389b0000000092030945766f6c7574696f6e"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -121.9969321,
+                37.39722939989944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "The Patio",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "95086",
+            "street": "East El Camino Real",
+            "housenumber": "948",
+            "lon": -122.0118095,
+            "lat": 37.3519822,
+            "state_code": "CA",
+            "formatted": "The Patio, 948 East El Camino Real, Sunnyvale, CA 95086, United States of America",
+            "address_line1": "The Patio",
+            "address_line2": "948 East El Camino Real, Sunnyvale, CA 95086, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "The Patio",
+                    "osm_id": 2663431873,
+                    "amenity": "bar",
+                    "osm_type": "n",
+                    "addr:street": "East El Camino Real",
+                    "addr:housenumber": 948
+                }
+            },
+            "place_id": "510d12a27cc1805ec05987a8b2c00dad4240f00103f901c1bec09e0000000092030954686520506174696f"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01180949999998,
+                37.35198219989348
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Sporty\u2019s Bikini Bar",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "95086",
+            "street": "Henderson Avenue",
+            "lon": -122.0042623,
+            "lat": 37.3530421,
+            "state_code": "CA",
+            "formatted": "Sporty\u2019s Bikini Bar, Henderson Avenue, Sunnyvale, CA 95086, United States of America",
+            "address_line1": "Sporty\u2019s Bikini Bar",
+            "address_line2": "Henderson Avenue, Sunnyvale, CA 95086, United States of America",
+            "categories": [
+                "catering",
+                "catering.bar"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Sporty\u2019s Bikini Bar",
+                    "osm_id": 5327261695,
+                    "amenity": "bar",
+                    "osm_type": "n"
+                }
+            },
+            "place_id": "51c4c661d545805ec059bf93c87b30ad4240f00103f901ff8f873d0100000092031553706f727479e28099732042696b696e6920426172"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.0042623,
+                37.35304209989362
+            ]
+        }
+    }
+]

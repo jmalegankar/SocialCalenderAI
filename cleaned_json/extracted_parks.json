@@ -1,0 +1,922 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Washington Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.0403778900861,
+            "lat": 37.37713465,
+            "state_code": "CA",
+            "formatted": "Washington Park, Sunnyvale, California, United States of America",
+            "address_line1": "Washington Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 33,
+                    "name": "Washington Park",
+                    "osm_id": 30829777,
+                    "leisure": "park",
+                    "website": "https://sunnyvale.ca.gov/Departments/CommunityServices/Parks/WashingtonPark.aspx",
+                    "osm_type": "w"
+                }
+            },
+            "website": "https://sunnyvale.ca.gov/Departments/CommunityServices/Parks/WashingtonPark.aspx",
+            "ele": 33,
+            "place_id": "51ae59258d95825ec0595ebfbdf245b04240f00102f901d16cd6010000000092030f57617368696e67746f6e205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.04037789008609,
+                37.377134649896774
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Swegles Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94085",
+            "lon": -122.00368936539358,
+            "lat": 37.386432049999996,
+            "state_code": "CA",
+            "formatted": "Swegles Park, Sunnyvale, CA 94085, United States of America",
+            "address_line1": "Swegles Park",
+            "address_line2": "Sunnyvale, CA 94085, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Swegles Park",
+                    "osm_id": -12002009,
+                    "leisure": "park",
+                    "osm_type": "r"
+                }
+            },
+            "place_id": "5157ed51723c805ec0591738fc9a76b14240f00101f901d922b7000000000092030c537765676c6573205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.00368936539358,
+                37.38643204989801
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "De Anza Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94087",
+            "lon": -122.05401501606549,
+            "lat": 37.35796325,
+            "state_code": "CA",
+            "formatted": "De Anza Park, Sunnyvale, CA 94087, United States of America",
+            "address_line1": "De Anza Park",
+            "address_line2": "Sunnyvale, CA 94087, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "De Anza Park",
+                    "osm_id": 15742827,
+                    "leisure": "park",
+                    "osm_type": "w",
+                    "addr:city": "Sunnyvale",
+                    "addr:state": "CA",
+                    "addr:street": "Lime Drive",
+                    "addr:postcode": 94087,
+                    "addr:housenumber": 1150
+                }
+            },
+            "place_id": "51a1df65fb74835ec0599cbb61bdd1ad4240f00102f9016b37f0000000000092030c446520416e7a61205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.05401501606549,
+                37.357963249894254
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Ponderosa Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.00571525012444,
+            "lat": 37.3617414,
+            "state_code": "CA",
+            "formatted": "Ponderosa Park, Sunnyvale, California, United States of America",
+            "address_line1": "Ponderosa Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 29,
+                    "name": "Ponderosa Park",
+                    "osm_id": 18402078,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 29,
+            "place_id": "51de177fa35d805ec0592014cd8a4dae4240f00102f9011ecb18010000000092030e506f6e6465726f7361205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.00571525012444,
+                37.361741399894754
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Las Palmas Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.03812489499644,
+            "lat": 37.364815899999996,
+            "state_code": "CA",
+            "formatted": "Las Palmas Park, Sunnyvale, California, United States of America",
+            "address_line1": "Las Palmas Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Las Palmas Park",
+                    "osm_id": 19448302,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51154b66a370825ec059268e9349b2ae4240f00102f901eec128010000000092030f4c61732050616c6d6173205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.03812489499644,
+                37.36481589989516
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Ortega Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.0255460529349,
+            "lat": 37.3421452,
+            "state_code": "CA",
+            "formatted": "Ortega Park, Sunnyvale, California, United States of America",
+            "address_line1": "Ortega Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 55,
+                    "name": "Ortega Park",
+                    "osm_id": 22462667,
+                    "leisure": "park",
+                    "alt_name": "La Ortega Park",
+                    "osm_type": "w",
+                    "official_name": "Ortega Madre Park"
+                }
+            },
+            "name_other": {
+                "alt_name": "La Ortega Park",
+                "official_name": "Ortega Madre Park"
+            },
+            "ele": 55,
+            "place_id": "516d79e98ba2815ec0599802f669cbab4240f00102f901cbc056010000000092030b4f7274656761205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.0255460529349,
+                37.34214519989217
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Serra Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.04262290283054,
+            "lat": 37.3433011,
+            "state_code": "CA",
+            "formatted": "Serra Park, Sunnyvale, California, United States of America",
+            "address_line1": "Serra Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 64,
+                    "name": "Serra Park",
+                    "osm_id": 24429367,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 64,
+            "place_id": "51f06d6955ba825ec059f25b5a4af1ab4240f00102f90137c374010000000092030a5365727261205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.04262290283054,
+                37.343301099892315
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Encinal Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.0428757670307,
+            "lat": 37.3914838,
+            "state_code": "CA",
+            "formatted": "Encinal Park, Sunnyvale, California, United States of America",
+            "address_line1": "Encinal Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Encinal Park",
+                    "osm_id": 25795451,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51034c007abe825ec05943bd22241cb24240f00102f9017b9b89010000000092030c456e63696e616c205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.04287576703068,
+                37.39148379989867
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Sunnyvale Baylands Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "postcode": "94089",
+            "lon": -121.99694051749172,
+            "lat": 37.412590449999996,
+            "state_code": "CA",
+            "formatted": "Sunnyvale Baylands Park, Sunnyvale, CA 94089, United States of America",
+            "address_line1": "Sunnyvale Baylands Park",
+            "address_line2": "Sunnyvale, CA 94089, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 1,
+                    "name": "Sunnyvale Baylands Park",
+                    "osm_id": 28640922,
+                    "leisure": "park",
+                    "operator": "City of Sunnyvale",
+                    "osm_type": "w",
+                    "addr:city": "Sunnyvale",
+                    "addr:state": "CA",
+                    "addr:street": "East Caribbean Drive",
+                    "addr:postcode": 94089,
+                    "operator:type": "government",
+                    "addr:housenumber": 999
+                }
+            },
+            "operator": "City of Sunnyvale",
+            "operator_details": {
+                "type": "government"
+            },
+            "ele": 1,
+            "place_id": "51caab99dfcd7f5ec059007c8cc3cfb44240f00102f9019a06b5010000000092031753756e6e7976616c65204261796c616e6473205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -121.99694051749171,
+                37.41259044990147
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Nimitz School Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.03506978417379,
+            "lat": 37.3477091,
+            "state_code": "CA",
+            "formatted": "Nimitz School Park, Sunnyvale, California, United States of America",
+            "address_line1": "Nimitz School Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Nimitz School Park",
+                    "osm_id": 28664604,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51aa0656953e825ec059e44756bb81ac4240f00102f9011c63b501000000009203124e696d69747a205363686f6f6c205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.03506978417377,
+                37.34770909989291
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Lakewood Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.00078419041508,
+            "lat": 37.39726625,
+            "state_code": "CA",
+            "formatted": "Lakewood Park, Sunnyvale, California, United States of America",
+            "address_line1": "Lakewood Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Lakewood Park",
+                    "osm_id": 36574615,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51f00b22d90c805ec059b48fd79ed9b24240f00102f90197152e020000000092030d4c616b65776f6f64205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.00078419041506,
+                37.397266249899445
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Orchard Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.02474024248676,
+            "lat": 37.39992785,
+            "state_code": "CA",
+            "formatted": "Orchard Park, Sunnyvale, California, United States of America",
+            "address_line1": "Orchard Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 9,
+                    "name": "Orchard Park",
+                    "osm_id": 36836142,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 9,
+            "place_id": "510a18195895815ec059240af6d530b34240f00102f9012e1332020000000092030c4f726368617264205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.02474024248673,
+                37.3999278498998
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Murphy Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.02632127962076,
+            "lat": 37.3819233,
+            "state_code": "CA",
+            "formatted": "Murphy Park, Sunnyvale, California, United States of America",
+            "address_line1": "Murphy Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 22,
+                    "name": "Murphy Park",
+                    "osm_id": 37877577,
+                    "leisure": "park",
+                    "alt_name": "Martin Murphy Junior Park",
+                    "osm_type": "w"
+                }
+            },
+            "name_other": {
+                "alt_name": "Martin Murphy Junior Park"
+            },
+            "ele": 22,
+            "place_id": "513eca723faf815ec059e651d9dce2b04240f00102f90149f741020000000092030b4d7572706879205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.02632127962076,
+                37.38192329989742
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Raynor Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "district": "Birdland",
+            "lon": -122.00678062291425,
+            "lat": 37.343830249999996,
+            "state_code": "CA",
+            "formatted": "Raynor Park, Sunnyvale, California, United States of America",
+            "address_line1": "Raynor Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Raynor Park",
+                    "osm_id": 38199298,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51726afe176f805ec059e8542fa102ac4240f00102f90102e046020000000092030b5261796e6f72205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.00678062291425,
+                37.34383024989239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Panama Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.01863278934195,
+            "lat": 37.34772375,
+            "state_code": "CA",
+            "formatted": "Panama Park, Sunnyvale, California, United States of America",
+            "address_line1": "Panama Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 46,
+                    "name": "Panama Park",
+                    "osm_id": 39201406,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 46,
+            "place_id": "51d836954731815ec05990ea3a3682ac4240f00102f9017e2a56020000000092030b50616e616d61205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01863278934195,
+                37.34772374989291
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "San Antonio Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.05686504857584,
+            "lat": 37.349406450000004,
+            "state_code": "CA",
+            "formatted": "San Antonio Park, Sunnyvale, California, United States of America",
+            "address_line1": "San Antonio Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "San Antonio Park",
+                    "osm_id": 39203258,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "51ccfa4cada3835ec059b6a6bd59b9ac4240f00102f901ba3156020000000092031053616e20416e746f6e696f205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.05686504857584,
+                37.349406449893124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Columbia Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.01940232923077,
+            "lat": 37.39541705,
+            "state_code": "CA",
+            "formatted": "Columbia Park, Sunnyvale, California, United States of America",
+            "address_line1": "Columbia Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 10,
+                    "name": "Columbia Park",
+                    "osm_id": 39221154,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 10,
+            "place_id": "51cc6044e33d815ec05987cca0069db24240f00102f901a27756020000000092030d436f6c756d626961205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01940232923079,
+                37.3954170498992
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Cannery Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.0410572304258,
+            "lat": 37.38359395,
+            "state_code": "CA",
+            "formatted": "Cannery Park, Sunnyvale, California, United States of America",
+            "address_line1": "Cannery Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [
+                "details"
+            ],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "ele": 28,
+                    "area": "yes",
+                    "name": "Cannery Park",
+                    "osm_id": 40444864,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "ele": 28,
+            "place_id": "515c7c81aea0825ec0597ce0469b19b14240f00102f901c02369020000000092030c43616e6e657279205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.04105723042579,
+                37.38359394989763
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Fair Oaks Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.01464331372884,
+            "lat": 37.3856635,
+            "state_code": "CA",
+            "formatted": "Fair Oaks Park, Sunnyvale, California, United States of America",
+            "address_line1": "Fair Oaks Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Fair Oaks Park",
+                    "ALAND": 59608,
+                    "MTFCC": "K2180",
+                    "AREAID": 110173686938,
+                    "AWATER": 0,
+                    "osm_id": 43449559,
+                    "STATEFP": "06",
+                    "leisure": "park",
+                    "COUNTYFP": "085",
+                    "osm_type": "w",
+                    "Tiger:MTFCC": "K2180"
+                }
+            },
+            "place_id": "51826482eaef805ec05946a9eb6b5db14240f00102f901d7fc96020000000092030e46616972204f616b73205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01464331372884,
+                37.385663499897916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Seven Seas Neighborhood Park",
+            "country": "United States",
+            "country_code": "us",
+            "state": "California",
+            "county": "Santa Clara County",
+            "city": "Sunnyvale",
+            "lon": -122.01611169928296,
+            "lat": 37.39872665,
+            "state_code": "CA",
+            "formatted": "Seven Seas Neighborhood Park, Sunnyvale, California, United States of America",
+            "address_line1": "Seven Seas Neighborhood Park",
+            "address_line2": "Sunnyvale, California, United States of America",
+            "categories": [
+                "leisure",
+                "leisure.park"
+            ],
+            "details": [],
+            "datasource": {
+                "sourcename": "openstreetmap",
+                "attribution": "\u00a9 OpenStreetMap contributors",
+                "license": "Open Database License",
+                "url": "https://www.openstreetmap.org/copyright",
+                "raw": {
+                    "name": "Seven Seas Neighborhood Park",
+                    "osm_id": 302358156,
+                    "leisure": "park",
+                    "osm_type": "w"
+                }
+            },
+            "place_id": "5136605df907815ec0596aae907909b34240f00102f9018c9e05120000000092031c536576656e2053656173204e65696768626f72686f6f64205061726b"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.01611169928296,
+                37.39872664989964
+            ]
+        }
+    }
+]
